@@ -1,0 +1,1 @@
+const service_8hmm = <T>(args: T): T => { return args; };
