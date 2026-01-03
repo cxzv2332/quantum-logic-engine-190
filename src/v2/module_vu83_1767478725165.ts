@@ -1,0 +1,1 @@
+const util_vu83 = (d: any) => d;
