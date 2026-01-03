@@ -1,0 +1,1 @@
+const util_pny0 = (d: any) => d;
